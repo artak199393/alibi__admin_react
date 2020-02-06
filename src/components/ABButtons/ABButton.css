@@ -1,0 +1,40 @@
+.ab-button {
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-icon-left {
+    margin-left: 0;
+}
+
+.btn-title {
+    margin: 5px;
+    color: white;
+}
+.btn-black {
+    margin: 5px;
+    background-color: #2d2d2d;
+    border-color: #2d2d2d;
+    
+}
+.btn-yellow {
+    margin: 5px;
+    background-color: #FFBD0A;
+    border-color: #FFBD0A;
+}
+.btn-yellow:hover {
+    background-color: #ffca39;
+    border-color: #FFBD0A;
+    color: #20a8d8;
+}
+.btn-red {
+    margin: 5px;
+    background-color: #EB5757; 
+    border-color: #EB5757;
+}
+.btn-gray {
+    margin: 5px;
+    background-color: #DEDEDE;
+    border-color: #DEDEDE;
+    color:black;
+}
